@@ -6,4 +6,4 @@ Growth mindset highly encourages learning and development through personal disco
 
 - Embrace challenges to grow past them
 - Perseverance will overcome obstacles
-- Constructive critism are opportunities groq
+- Constructive critism are growth opportunities
