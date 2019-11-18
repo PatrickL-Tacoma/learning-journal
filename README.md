@@ -1,6 +1,6 @@
 # Hello Seattle
 
-## Welcome to my first GitHub page
+## <c>Welcome to my first GitHub page</c>
 
 <p><b>Growth mindset</b> highly encourages <i>learning and development</i> through personal discovery and open exploration of learning concepts </p>
 
