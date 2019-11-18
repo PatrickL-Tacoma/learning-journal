@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-#H# ello Seattle
+## Hello Seattle
 
 You can use the [editor on GitHub](https://github.com/PatrickL-Tacoma/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
