@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+# Hello Seattle
 
-## Hello Seattle
+## Welcome to my first GitHub page
 
 Growth mindset highly encourages learning and development through personal discovery and open exploration of learning concepts 
 
