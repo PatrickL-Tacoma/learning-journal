@@ -1,20 +1,10 @@
 ## Learning about HTML
 Develop Wireframe
 
-Structure - page
+HTML consists of structured design and parts
 
 Elements - opening and closing tags
 
-HTML consists of structured parts: (examples)
-<xmp> <title> </title> </xmp>
-<xmp> <body> </body> </xmp>
-<xmp> <head> </head> </xmp> 
-<xmp> <title> </title> </xmp> 
-<xmp> <p> </p> </xmp> 
-<xmp> </xmp> 
-<xmp> </xmp> 
-<xmp> </xmp> 
-
-<xmp> Headings <h1> <h2> <h3> ect </xmp> 
+An introduction of elements begin with Chap 2 - 9 
 
 <b>Google is your friend</b>
