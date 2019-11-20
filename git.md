@@ -19,6 +19,9 @@ Committed - Data is securely stored in a local database
 Modified - File has been changed but not committed to the database
 Staged - Flagged a file’s changed version to be committed in the next snapshot
 A - C - P:  This is the process of adding changes to the local file version, committing those changes by staging them for cloud database and finally pushing those snapshot changes to the cloud database using a reference hashtag.  
--- Add - < git add * > Moves changes from the working directory to the staging area. 
--- Commit - < git commit -m “<message>” > Takes the staged snapshot and commits it to the project history.
--- Push - < git push >Pushing is the opposite of fetching (with a few caveats). It lets you move a local branch to another repository, which serves as a convenient way to publish contributions. 
+-- Add - < git add . > Moves changes from the working directory to the staging area. 
+--- Check status < git status >
+-- Commit - < git commit -m “<message>” > Takes the staged snapshot and commits it to the project history. Use current active tense within message.
+--- Check status < git status >
+-- Push - < git push origin master > Pushing is the opposite of fetching (with a few caveats). It lets you move a local branch to another repository, which serves as a convenient way to publish contributions. 
+--- Check status < git status >

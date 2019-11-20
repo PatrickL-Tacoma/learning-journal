@@ -13,4 +13,4 @@ Hello Class, I'm Patrick and I retired from the Air Force after 23 years of vari
 
 4. [HTML](https://github.com/patricklathrop/learning-journal/blob/master/html.md)
 
-5. [CSS] (https://github.com/patricklathrop/learning-journal/blob/master/css.md)
+5. [CSS](https://github.com/patricklathrop/learning-journal/blob/master/css.md)
