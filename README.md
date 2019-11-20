@@ -11,4 +11,4 @@
 
 4. [HTML](https://github.com/patricklathrop/learning-journal/blob/master/html.md)
 
-5. [CSS] (https://github.com/patricklathrop/learning-journal/blob/master/css.md)
+5. [CSS](https://github.com/patricklathrop/learning-journal/blob/master/css.md)
