@@ -6,7 +6,18 @@ Hello Class, I'm Patrick and I retired from the Air Force after 23 years of vari
 
 ### Table of Contents
 1. [Mindset](https://github.com/patricklathrop/learning-journal/blob/master/mindset.md)
+<<<<<<< HEAD
 2. [Git](https://github.com/patricklathrop/learning-journal/blob/master/git.md)
 3. [Website](https://github.com/patricklathrop/learning-journal/blob/master/website.md)
 4. [HTML](https://github.com/patricklathrop/learning-journal/blob/master/html.md)
 5. [CSS] (https://github.com/patricklathrop/learning-journal/blob/master/css.md)
+=======
+
+2. [Git](https://github.com/patricklathrop/learning-journal/blob/master/git.md)
+
+3. [Website](https://github.com/patricklathrop/learning-journal/blob/master/website.md)
+
+4. [HTML](https://github.com/patricklathrop/learning-journal/blob/master/html.md)
+
+5. [CSS](https://github.com/patricklathrop/learning-journal/blob/master/css.md)
+>>>>>>> 4b3dc048181b02f0befb2e2843dd55e1978ecd74
