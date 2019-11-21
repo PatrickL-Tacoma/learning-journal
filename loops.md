@@ -3,21 +3,24 @@
 ## Comparison Operators: Evaluating Conditions
 Evaluations compare one value in the script to what is expected with a Boolean results :true or false
 Common Comparison Operators:
-== 	is equal to
-=== 	strict equal too
-!=  	is not equal to
-!== 	strict not equal to
->	greater than
->=	greater than or equal to
-<	less than
-<=	less than or equal to
-
+    <ul>
+        <li> == 	is equal to</li>
+        <li> === 	strict equal too </li>
+        <li> !=  	is not equal to </li>
+        <li> !== 	strict not equal to </li>
+        <li> >	greater than </li>
+        <li> >=	greater than or equal to </li>
+        <li> <	less than </li>
+        <li> <=	less than or equal to </li>
+    </ul>
 ## Logical Operators
 Logical operators allow you to compare results of more than one comparison operator
 Common Logical Operators:
-&&	logical and 	(test more than on condition)
-||	logical or 	(tests at least one condition)
-!	logical not	(takes a single Boolean value and inverts it – i.e. true becomes false)
+    <ul> 
+        <li> &&	logical and 	(test more than on condition)</li>
+        <li> ||	logical or 	    (tests at least one condition)</li>
+        <li> !	logical not	    (takes a single Boolean value and inverts it</li>
+    </ul>
 
 ## Loops
 Loops check a condition will run the code block as long the bollean value is true
