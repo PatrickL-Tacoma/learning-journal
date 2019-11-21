@@ -19,3 +19,5 @@ Hello Class, I'm Patrick and I retired from the Air Force after 23 years of vari
 
 7. [Programming in JavaScript](https://patricklathrop.github.io/learning-journal/progjavas)
 
+8. [Loops](https://patricklathrop.github.io/learning-journal/loops)
+
