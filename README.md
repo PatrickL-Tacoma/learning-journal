@@ -21,5 +21,5 @@ Hello Class, I'm Patrick and I retired from the Air Force after 23 years of vari
 
 8. [Loops](https://patricklathrop.github.io/learning-journal/loops)
 
-9. [## HTML, CSS, Javascript]((https://patricklathrop.github.io/learning-journal/lab6JS)
+9. [HTML, CSS, Javascript]((https://patricklathrop.github.io/learning-journal/lab6JS)
 
