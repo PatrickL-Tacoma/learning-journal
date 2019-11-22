@@ -13,8 +13,8 @@
 #### COMMENTS
 ___Comments___ are important to include to explain what your code does.  This makes it easier to recall and helps others read ___your___ code.
 
-    - Multi-line ___COMMENTS___ begin with /*  and end with */
-    - Single-line ___COMMENTS___ begin each line with //
+- Multi-line ___COMMENTS___ begin with /*  and end with */
+- Single-line ___COMMENTS___ begin each line with //
 
 #### VARIABLE
 Scripts often gather and store bits of information in ___variables___
