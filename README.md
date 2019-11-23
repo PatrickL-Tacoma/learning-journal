@@ -15,7 +15,7 @@ Hello Class, I'm Patrick and I retired from the Air Force after 23 years of vari
 
 5. [CSS](https://patricklathrop.github.io/learning-journal/CSS)
 
-6. [Architecture](https://patricklathrop.github.io/learning-journal/Architecture)
+6. [Architecture](https://patricklathrop.github.io/learning-journal/architecture)
 
 7. [Programming in JavaScript](https://patricklathrop.github.io/learning-journal/progjavas)
 
